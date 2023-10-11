@@ -1,6 +1,10 @@
 # SE Spaceship
 
+<<<<<<< HEAD
 This is not a complex application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
+=======
+This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
+>>>>>>> branch-A
 
 The application is simplified and deliberately contains bugs.
 
